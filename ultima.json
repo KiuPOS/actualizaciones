@@ -1,0 +1,11 @@
+{
+  "version": "1.0.5",
+  "fecha": "2026-10-18",
+  "notas": "Corregir el costo de una compra; «Todo el dinero» y dinero guardado; gastos y abonos de otro día; corregir el pago de un ingreso; borradores para no perder lo escrito; «← Volver» a donde estabas; el QR dice el Wi-Fi y «Revisar la conexión»; sellos de autoría y arreglos.",
+  "instalador": {
+    "url": "https://github.com/KiuPOS/actualizaciones/releases/download/v1.0.5/KiuPOS-Instalador-1.0.5.exe",
+    "tamano": 25888675,
+    "sha256": "44bb1ef1ac1320b253e3cbba68dfa1fb2691b441a998b6848c111f8b58057be3"
+  },
+  "firma": "73b1f6f1cbb6e729a39f0e9fbd9d0f67ad2323fff93230b796de904fe30c0fe7f51c904e9ae86fdf0d455bb6b94625ac37298e21496f1f5213a40ed4f137f60c"
+}
