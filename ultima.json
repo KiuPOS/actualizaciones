@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "fecha": "2026-10-18",
-  "notas": "Corregir el costo de una compra; «Todo el dinero» y dinero guardado; gastos y abonos de otro día; corregir el pago de un ingreso; borradores para no perder lo escrito; «← Volver» a donde estabas; el QR dice el Wi-Fi y «Revisar la conexión»; sellos de autoría y arreglos.",
+  "version": "1.0.6",
+  "fecha": "2026-10-20",
+  "notas": "Intereses por mora en los créditos (edición Completa), ícono propio junto al reloj, licencias de terceros en «Acerca de», varios arreglos (Numeraciones ya no se congela) y Excel de los reportes más rápido. La contabilidad llega en una próxima versión.",
   "instalador": {
-    "url": "https://github.com/KiuPOS/actualizaciones/releases/download/v1.0.5/KiuPOS-Instalador-1.0.5.exe",
-    "tamano": 25888675,
-    "sha256": "44bb1ef1ac1320b253e3cbba68dfa1fb2691b441a998b6848c111f8b58057be3"
+    "url": "https://github.com/KiuPOS/actualizaciones/releases/download/v1.0.6/KiuPOS-Instalador-1.0.6.exe",
+    "tamano": 24364764,
+    "sha256": "d8e57b2552544f877c070a81b402f06144d362aa0ca898fbffe8b1e20389fd1a"
   },
-  "firma": "73b1f6f1cbb6e729a39f0e9fbd9d0f67ad2323fff93230b796de904fe30c0fe7f51c904e9ae86fdf0d455bb6b94625ac37298e21496f1f5213a40ed4f137f60c"
+  "firma": "3d764852316ac2b211f445771f571efa5d4073ed4697ce1218f68d63c11334f6006596537ed30af3d2976cfa50a78e530e086ba0a5fed41f431ef9f182d17e0d"
 }
