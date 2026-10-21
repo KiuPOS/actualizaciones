@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "fecha": "2026-10-20",
-  "notas": "Intereses por mora en los créditos (edición Completa), ícono propio junto al reloj, licencias de terceros en «Acerca de», varios arreglos (Numeraciones ya no se congela) y Excel de los reportes más rápido. La contabilidad llega en una próxima versión.",
+  "version": "1.0.7",
+  "fecha": "2026-10-21",
+  "notas": "Filtros en Productos, agotados al final, Esc para volver, anular saldo a favor, buscar actualizaciones y más",
   "instalador": {
-    "url": "https://github.com/KiuPOS/actualizaciones/releases/download/v1.0.6/KiuPOS-Instalador-1.0.6.exe",
-    "tamano": 24364764,
-    "sha256": "d8e57b2552544f877c070a81b402f06144d362aa0ca898fbffe8b1e20389fd1a"
+    "url": "https://github.com/KiuPOS/actualizaciones/releases/download/v1.0.7/KiuPOS-Instalador-1.0.7.exe",
+    "tamano": 24425152,
+    "sha256": "0573cbc54093d05ad875a4ee6f00ae70fe3230d0cf9c0a8f4ab996385c9e0ead"
   },
-  "firma": "3d764852316ac2b211f445771f571efa5d4073ed4697ce1218f68d63c11334f6006596537ed30af3d2976cfa50a78e530e086ba0a5fed41f431ef9f182d17e0d"
+  "firma": "75a5c126eca1fa4e102ee47d4a8f8c0b41daf4fa0f9c88f4cafdf4f5213cfe026fde7f00ce7c9b7caea01281bd0e2e25d7a31d0c73e47b9a0d129aaecd1f050a"
 }
